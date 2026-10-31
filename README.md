@@ -600,7 +600,7 @@ alt="Email"
 
 </a>
 
-<a href="https://github.com/EroCores">
+<a href="[https://github.com/EroCores](https://erocores.github.io/)">
 
 <img
 src="https://img.shields.io/badge/GITHUB-EroCores-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0E1A"
@@ -609,7 +609,7 @@ alt="GitHub"
 
 </a>
 
-<a href="https://erocores.github.io/erocore-web-studio-teklif/">
+<a href="https://erocores.github.io/">
 
 <img
 src="https://img.shields.io/badge/WEB-erocores.github.io%2Ferocore-web-studio-teklif-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0E1A"
