@@ -26,14 +26,14 @@
 
   <!-- STATUS BADGES -->
 
-  <a href="https://erocores.github.io/erocore-web-studio-teklif/">
+  <a href="https://erocores.github.io/">
     <img
       src="https://img.shields.io/badge/LIVE-erocores.github.io%2Ferocore-web-studio-teklif-C9A84C?style=for-the-badge&labelColor=0A0E1A"
       alt="Live Website"
     />
   </a>
 
-  <a href="https://github.com/EroCores/erocore-web-studio-teklif">
+  <a href="https://erocores.github.io/">
     <img
       src="https://img.shields.io/github/stars/EroCores/erocore-web-studio-teklif?style=for-the-badge&label=STARS&labelColor=0A0E1A&color=C9A84C"
       alt="GitHub Stars"
